@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ranchu01/ranchu01/blob/main/GitHub_Banner.png)
 
 <h1 align="center">Hi 👋, I'm @ranchu01</h1>
 <h3 align="center">A passionate frontend developer</h3>
